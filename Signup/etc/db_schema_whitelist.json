@@ -1,0 +1,12 @@
+{
+    "nini_signup_form": {
+        "column": {
+            "entity_id": true,
+            "name": true,
+            "date": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
